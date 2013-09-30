@@ -7,19 +7,18 @@ title: My Truely Ergonormic Keyboard Settings
 
 I have use all the 3 layers of TECK.
 
-*Main* is for my MacBook Air.
-*Num* is for my Windows Laptop.
-*Fn* is for an extended map.
+*Main* is for my MacBook Air.<br />
+*Num* is for my Windows Laptop.<br />
+*Fn* is for an extended map.<br />
 
-The idea to use Main and Num layor comes from [this](http://www.trulyergonomic.com/store/alternate-layouts--truly-ergonomic-mechanical-keyboard#Dual_Layout)
+The idea to use Main and Num layor comes from [this](http://www.trulyergonomic.com/store/alternate-layouts--truly-ergonomic-mechanical-keyboard#Dual_Layout)<br />
 The idea to use the FN layor(which I though not so useful) comes from [this](http://www.trulyergonomic.com/store/alternate-layouts--truly-ergonomic-mechanical-keyboard#Minimal)
 
 I previously set the Main for my Windows laptop and Num prepared for Mac. But I have found that I will close my Mac frequently and every time I open my Mac, I need to press the [Num] key again as there is no power supply for the keyborad to persist the state when my Mac sleeps. But I don't close my Windows laptop so often. So I swap the two layors.
 
 Here's the details for the settings:
 
-I use the [dvorak layout](http://www.trulyergonomic.com/store/alternate-layouts--truly-ergonomic-mechanical-keyboard#Minimal)
- as the base layout.
+I use the [dvorak layout](http://www.trulyergonomic.com/store/alternate-layouts--truly-ergonomic-mechanical-keyboard#Alternative_Layout) as the base layout.
 So I can have dvorak on my keyboard and do not need to change the system setting to use the dvorak layout. This is more portable and useful when I need to use remote desktop to connect to different servers. As before, when I use a Microsoft 4000, I needed to change the layout on the servers every time I connect to them. And changing the servers' layout make some of my colleges confused when they are connecting to the server.
 
 And the dvorak layout in the keyboard has the 【z】 and 【-】 key in the right position comparing to using the Qwerty layout in the keyboard and changed to Dovrak in the system, which puts the 【z】 and 【-】 in weird positions.
