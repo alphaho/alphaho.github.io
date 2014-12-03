@@ -33,3 +33,7 @@ As I keep a lot of tabs, the bird view mode in Safari is great for me. Makes it 
 ### Good: excellent ecosystem
 It gives me the feeling that everything I want it already has an app sitting there in the App Store. And the app quality is very good.  
 Another thing is after upgrading to Yosemite/iOS 8, the interoperation between the Mac and iPhone/iPad makes life easier.
+
+### Good: the backup function
+I'm quite surprised the first time when I found out how good the backup fuction can do. It not only backups the apps and settings. But also the state of the app. For example, it can backup the tabs I've opened in Safari. When I restore from the backup, the tabs order and which tab I was on is all the same!  
+This is awesome to me!
